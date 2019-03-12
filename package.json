@@ -7,9 +7,14 @@
     "@types/node": "11.11.1",
     "@types/react": "16.8.7",
     "@types/react-dom": "16.8.2",
+    "@types/react-router-dom": "^4.3.1",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.8",
+    "respectre": "^0.0.10",
+    "spectre.css": "^0.5.8",
     "typescript": "3.3.3333"
   },
   "scripts": {
@@ -26,5 +31,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "tslint": "^5.13.1",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-react": "^3.6.0"
+  }
 }
