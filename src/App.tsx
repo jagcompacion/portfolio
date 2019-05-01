@@ -18,7 +18,7 @@ const App = () => (
         <NavbarSection />
         <NavbarSection>
           <Link to="/" className="p-2">
-            Home
+            Homexxx
           </Link>
           <Link to="/about" className="p-2">
             About
